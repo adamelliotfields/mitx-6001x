@@ -11,11 +11,11 @@ This course is the first of a two-course sequence: Introduction to Computer Scie
 
 ### What You'll Learn
 
-A Notion of computation
-The Python programming language
-Some simple algorithms
-Testing and debugging
-An informal introduction to algorithmic complexity
+A Notion of computation  
+The Python programming language  
+Some simple algorithms  
+Testing and debugging  
+An informal introduction to algorithmic complexity  
 Data structures
 
 
