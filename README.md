@@ -21,12 +21,12 @@ Data structures
 
 ### Syllabus
 
-Week 1: Python Basics - [Problem Set 1](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-1)
-Week 2: Simple Programs - [Problem Set 2](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-2)
-Week 3: Structured Types - [Problem Set 3](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-3)
-Week 4: Good Programming Practices - [Problem Set 4](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-4)
-Week 5: Object Oriented Programming - [Problem Set 5](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-5)
-Week 6: Algorithmic Complexity
+Week 1: Python Basics - [Problem Set 1](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-1)  
+Week 2: Simple Programs - [Problem Set 2](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-2)  
+Week 3: Structured Types - [Problem Set 3](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-3)  
+Week 4: Good Programming Practices - [Problem Set 4](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-4)  
+Week 5: Object Oriented Programming - [Problem Set 5](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-5)  
+Week 6: Algorithmic Complexity  
 Week 7: Plotting
 
 <br />
