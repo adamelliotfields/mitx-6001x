@@ -31,4 +31,4 @@ Week 7: Plotting
 
 <br />
 
-Note: Week 6's Problem Set was a quiz, and Week 7's was the final exam.
+*Note: Week 6's Problem Set was a quiz, and Week 7's was the final exam.*
