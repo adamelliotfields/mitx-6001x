@@ -1,7 +1,7 @@
 # MITx 6.00.1x: Introduction to Computer Science and Programming Using Python
 
 
-### [Certificate](https://courses.edx.org/certificates/fc3a95d9c35b4d3cb3b65424e78a6b05)
+### [Certificate](https://courses.edx.org/certificates/fc3a95d9c35b4d3cb3b65424e78a6b05) :tada: :cocktail:
 
 
 ### About This Course
@@ -21,13 +21,13 @@ Data structures
 
 ### Syllabus
 
-Week 1: Python Basics - [Problem Set 1](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-1)  
-Week 2: Simple Programs - [Problem Set 2](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-2)  
-Week 3: Structured Types - [Problem Set 3](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-3)  
-Week 4: Good Programming Practices - [Problem Set 4](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-4)  
-Week 5: Object Oriented Programming - [Problem Set 5](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-5)  
-Week 6: Algorithmic Complexity  
-Week 7: Plotting
+Week 1: Python Basics - [Problem Set 1](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-1) :white_check_mark:  
+Week 2: Simple Programs - [Problem Set 2](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-2) :white_check_mark:  
+Week 3: Structured Types - [Problem Set 3](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-3) :white_check_mark:  
+Week 4: Good Programming Practices - [Problem Set 4](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-4) :white_check_mark:  
+Week 5: Object Oriented Programming - [Problem Set 5](https://github.com/adamelliotfields/mitx-6001x/tree/master/problem_set-5) :white_check_mark:  
+Week 6: Algorithmic Complexity :white_check_mark:  
+Week 7: Plotting :white_check_mark:
 
 <br />
 
