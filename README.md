@@ -1,4 +1,7 @@
-# MITx 6.00.1x: Introduction to Computer Science and Programming Using Python
+![MITx](mitx.png)
+
+
+# Introduction to Computer Science and Programming Using Python
 
 
 ### [Certificate](https://courses.edx.org/certificates/fc3a95d9c35b4d3cb3b65424e78a6b05) :tada: :cocktail:
